@@ -16,7 +16,7 @@ Table of Contents
  * [Embedded and Peripheral Devices Hacking](#Embedded_and_Peripheral_Device_Hacking)
  * [Implant Creation](#Implant_Creation)
  * [Evasion](#Evasion)
- * [Command and Control](#Command-and-Control)
+ * [Command and Control](#command-and-control)
 
 ## Social Engineering
 
