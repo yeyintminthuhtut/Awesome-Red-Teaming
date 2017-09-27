@@ -11,7 +11,7 @@ Table of Contents
  * [Social Engineering](#Social_engineering)
  * [OSINT](#OSINT)
  * [Automation and Scripting](#Automation_and_scripting)
- * [Trojan Delivery](#Trojan Delivery)
+ * [Trojan Delivery](#Trojan_Delivery)
  * [Client Side Exploitation](#Client_Side_Exploitation)
  * [Embedded and Peripheral Devices Hacking](#Embedded_and_Peripheral_Device_Hacking)
  * [Implant Creation](#Implant_Creation)
