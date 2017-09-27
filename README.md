@@ -8,14 +8,14 @@ You can help by sending Pull Requests to add more information.
 Table of Contents
 =================
 
- * [Social Engineering](#Social-engineering)
- * [OSINT](#OSINT)
- * [Automation and Scripting](#Automation_and_scripting)
- * [Trojan Delivery](#Trojan_Delivery)
- * [Client Side Exploitation](#Client_Side_Exploitation)
- * [Embedded and Peripheral Devices Hacking](#Embedded_and_Peripheral_Device_Hacking)
- * [Implant Creation](#Implant_Creation)
- * [Evasion](#Evasion)
+ * [Social Engineering](#social-engineering)
+ * [OSINT](#osint)
+ * [Automation and Scripting](#automation-and-scripting)
+ * [Trojan Delivery](#trojan-delivery)
+ * [Client Side Exploitation](#client-side-exploitation)
+ * [Embedded and Peripheral Devices Hacking](#embedded-and-peripheral-device-hacking)
+ * [Implant Creation](#implant-creation)
+ * [Evasion](#evasion)
  * [Command and Control](#command-and-control)
 
 ## Social Engineering
