@@ -8,9 +8,9 @@ You can help by sending Pull Requests to add more information.
 Table of Contents
 =================
 
- * [Social Engineering] 
- * [OSINT] (#OSINT) 
- * [Automation and Scripting]
+ * [Social Engineering](#Social_engineering)
+ * [OSINT](#OSINT)
+ * [Automation and Scripting](#Automation_and_scripting)
  * [Trojan Delivery]
  * [Client Side Exploitation]
  * [Embedded and Peripheral Devices Hacking]
@@ -24,3 +24,6 @@ Table of Contents
 
 
 ## OSINT
+
+
+## Automation and Scripting
