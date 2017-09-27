@@ -5,8 +5,8 @@ This list is for anyone wishing to learn about Red Teaming but do not have a sta
 
 You can help by sending Pull Requests to add more information.
 
-1. *[Social Engineering] (#Social Engineering)
-2. *[OSINT]
+1. *[Social Engineering] (#Social)
+2. *[OSINT] (#OSINT)
 3. *[Automation and Scripting]
 4. *[Trojan Delivery]
 5. *[Client Side Exploitation]
@@ -18,3 +18,6 @@ You can help by sending Pull Requests to add more information.
 
 
 1. ## Social Engineering
+
+
+2. ## OSINT
