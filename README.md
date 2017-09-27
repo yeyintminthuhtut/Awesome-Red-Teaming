@@ -45,6 +45,10 @@ Table of Contents
 
 
 ## Implant Creation
+* [Exploiting CVE-2017-0199: HTA Handler Vulnerability](https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/)
+* [CVE-2017-0199 Toolkit](https://github.com/bhdresh/CVE-2017-0199)
+* [Lateral movement using excel application and dcom](https://enigma0x3.net/2017/09/11/lateral-movement-using-excel-application-and-dcom/)
+* [Phishing Against Protected View](https://enigma0x3.net/2017/07/13/phishing-against-protected-view/)
 
 
 ## Evasion
