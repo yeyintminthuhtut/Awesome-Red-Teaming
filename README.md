@@ -8,7 +8,7 @@ You can help by sending Pull Requests to add more information.
 Table of Contents
 =================
 
- * [Social Engineering](#Social_engineering)
+ * [Social Engineering](#Social-engineering)
  * [OSINT](#OSINT)
  * [Automation and Scripting](#Automation_and_scripting)
  * [Trojan Delivery](#Trojan_Delivery)
@@ -16,7 +16,7 @@ Table of Contents
  * [Embedded and Peripheral Devices Hacking](#Embedded_and_Peripheral_Device_Hacking)
  * [Implant Creation](#Implant_Creation)
  * [Evasion](#Evasion)
- * [Command and Control](#Command_and_Control)
+ * [Command and Control](#Command-and-Control)
 
 ## Social Engineering
 
