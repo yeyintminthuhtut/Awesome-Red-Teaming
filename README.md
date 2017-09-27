@@ -5,19 +5,22 @@ This list is for anyone wishing to learn about Red Teaming but do not have a sta
 
 You can help by sending Pull Requests to add more information.
 
-1. *[Social Engineering] (#Social)
-2. *[OSINT] (#OSINT)
-3. *[Automation and Scripting]
-4. *[Trojan Delivery]
-5. *[Client Side Exploitation]
-6. *[Embedded and Peripheral Devices Hacking]
-7. *[Implant Creation]
-8. *[Evasion]
-9. *[Command and Control]
+Table of Contents
+=================
+
+ * [Social Engineering] 
+ * [OSINT] (#OSINT) 
+ * [Automation and Scripting]
+ * [Trojan Delivery]
+ * [Client Side Exploitation]
+ * [Embedded and Peripheral Devices Hacking]
+ * [Implant Creation]
+ * [Evasion]
+ * [Command and Control]
 
 
 
-1. ## Social Engineering
+## Social Engineering
 
 
-2. ## OSINT
+## OSINT
