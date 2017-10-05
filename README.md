@@ -15,7 +15,7 @@ Table of Contents
  * [Client Side Exploitation](#client-side-exploitation)
  * [Embedded and Peripheral Devices Hacking](#embedded-and-peripheral-device-hacking)
  * [Implant Creation](#implant-creation)
- * [Lateral movement](#laterl movement)
+ * [Lateral movement](#lateral movement)
  * [Command and Control](#command-and-control)
 
 ## Social Engineering
