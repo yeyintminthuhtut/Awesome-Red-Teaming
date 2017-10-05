@@ -54,3 +54,7 @@ Table of Contents
 ## Evasion
 
 ## Command and Control
+
+* [How to Build a C2 Infrastructure with Digital Ocean – Part 1] (https://www.blackhillsinfosec.com/build-c2-infrastructure-digital-ocean-part-1/)
+* [Infrastructure for Ongoing Red Team Operations] (https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
+* [Automated Red Team Infrastructure Deployment with Terraform - Part 1] (https://rastamouse.me/2017/08/automated-red-team-infrastructure-deployment-with-terraform---part-1/)
