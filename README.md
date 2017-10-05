@@ -17,6 +17,8 @@ Table of Contents
  * [Implant Creation](#implant-creation)
  * [Lateral movement](#lateral-movement)
  * [Command and Control](#command-and-control)
+ * [Ebooks](#Ebooks)
+ * [Training](#Training)
 
 ## Social Engineering
 
@@ -117,6 +119,29 @@ Table of Contents
 * [6 RED TEAM INFRASTRUCTURE TIPS](https://cybersyndicates.com/2016/11/top-red-team-tips/)
 * []()
 * []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+## Ebooks
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+
+## Training
+* [Tradecraft - a course on red team operations.](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
+* [Advanced Threat Tactics](https://www.youtube.com/watch?v=4w7krkqxRck&list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c)
 * []()
 * []()
 * []()
