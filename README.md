@@ -34,12 +34,10 @@ Table of Contents
 * []()
 
 
-
 ## OSINT
 
-* [Awesome list of OSINT](https://github.com/jivoi/awesome-osint)
+* [Awesome list of OSINT](https://github.com/jivoi/awesome-osint) - A lot of awesome OSINT resources are already covered
 * [Reconnaissance using LinkedInt](https://www.mdsec.co.uk/2017/07/reconnaissance-using-linkedint/)
-* []()
 * []()
 
 
