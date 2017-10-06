@@ -126,6 +126,6 @@ Table of Contents
 * [Social Engieers' Playbook Pretical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=talamantesus-20&linkId=37b63c7702c9be6b9f6a1b921c88c8cd)
 
 ## Training ( Free )
-* [Tradecraft - a course on red team operations.](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
-* [Advanced Threat Tactics Course and Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/
+* [Tradecraft - a course on red team operations](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
+* [Advanced Threat Tactics Course & Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
 
