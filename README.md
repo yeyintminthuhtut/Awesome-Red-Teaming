@@ -19,8 +19,8 @@ Table of Contents
  * [Lateral movement](#lateral-movement)
  * [Command and Control](#command-and-control)
  * [Misc](#misc)
- * [Ebooks](#Ebooks)
- * [Training](#Training)
+ * [Ebooks](#ebooks)
+ * [Training](#training)
 
 ## Social Engineering
 
