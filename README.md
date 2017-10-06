@@ -32,10 +32,8 @@ Table of Contents
 * [USB Drop Attacks: The Danger of “Lost And Found” Thumb Drives](https://www.redteamsecure.com/usb-drop-attacks-the-danger-of-lost-and-found-thumb-drives/)
 * [PyPhishing Toolkit](https://github.com/redteamsecurity/PyPhishing)
 * []()
-* []()
-* []()
-* []()
-* []()
+
+
 
 ## OSINT
 
@@ -43,12 +41,7 @@ Table of Contents
 * [Reconnaissance using LinkedInt](https://www.mdsec.co.uk/2017/07/reconnaissance-using-linkedint/)
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
 
 ## Delivery
 
@@ -57,24 +50,19 @@ Table of Contents
 * [Spear phishing with Cobalt Strike - Raphael Mudge](https://www.youtube.com/watch?v=V7UJjVcq2Ao)
 * [Phishing Against Protected View](https://enigma0x3.net/2017/07/13/phishing-against-protected-view/)
 * [VEIL-EVASION AES ENCRYPTED HTTPKEY REQUEST: SAND-BOX EVASION](https://cybersyndicates.com/2015/06/veil-evasion-aes-encrypted-httpkey-request-module/)
+* [EGRESSING BLUECOAT WITH COBALTSTIKE & LET'S ENCRYPT](https://cybersyndicates.com/2016/12/egressing-bluecoat-with-cobaltstike-letsencrypt/)
+* [EMAIL RECONNAISSANCE AND PHISHING TEMPLATE GENERATION MADE SIMPLE](https://cybersyndicates.com/2016/05/email-reconnaissance-phishing-template-generation-made-simple/)
+* [An unnecessary addiction to DNS communication](https://blog.cobaltstrike.com/2015/05/14/an-unnecessary-addiction-to-dns-communication/)
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
 
 ## Implant Creation
 * [Exploiting CVE-2017-0199: HTA Handler Vulnerability](https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/)
 * [CVE-2017-0199 Toolkit](https://github.com/bhdresh/CVE-2017-0199)
 * [CVE-2017-8759-Exploit-sample](https://github.com/vysec/CVE-2017-8759-Exploit-sample)
 * [Window Signed Binary](https://github.com/vysec/Windows-SignedBinary)
-* [](https://github.com/mwrlabs/wePWNise)
-* []()
-* []()
-* []()
-* []()
+* [Wepwnise](https://labs.mwrinfosecurity.com/tools/wepwnise/)
+* [Bash Bunny](https://hakshop.com/products/bash-bunny)
 * []()
 * []()
 
@@ -85,10 +73,12 @@ Table of Contents
 * [Fileless UAC Bypass using sdclt](https://posts.specterops.io/fileless-uac-bypass-using-sdclt-exe-3e9f9ad4e2b3)
 * [Bypassing AMSI via COM Server Hijacking](https://posts.specterops.io/bypassing-amsi-via-com-server-hijacking-b8a3354d1aff)
 * [Window 10 Device Guard Bypass](https://github.com/tyranid/DeviceGuardBypasses)
+* [My First Go with BloodHound](https://blog.cobaltstrike.com/2016/12/14/my-first-go-with-bloodhound/)
+* [OPSEC Considerations for beacon commands](https://blog.cobaltstrike.com/2017/06/23/opsec-considerations-for-beacon-commands/)
+* [Agentless Post Exploitation](https://blog.cobaltstrike.com/2016/11/03/agentless-post-exploitation/)
+* [Windows Access Tokens and Alternate credentials](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
 * []()
-* []()
-* []()
-* []()
+
 
 ## Command and Control
 
@@ -108,26 +98,26 @@ Table of Contents
 * [Attack Infrastructure Log Aggregation and Monitoring](https://posts.specterops.io/attack-infrastructure-log-aggregation-and-monitoring-345e4173044e)
 * [Finding Frontable Domain](https://github.com/rvrsh3ll/FindFrontableDomains)
 * [Apache2Mod Rewrite Setup](https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup)
+* [Empre Domain Fronting](https://www.xorrior.com/Empire-Domain-Fronting/)
 * [Domain Hunter](https://github.com/minisllc/domainhunter)
-* []()
-* []()
-* []()
+* [Migrating Your infrastructure](https://blog.cobaltstrike.com/2015/10/21/migrating-your-infrastructure/)
+* [Redirecting Cobalt Strike DNS Beacons](http://www.rvrsh3ll.net/blog/offensive/redirecting-cobalt-strike-dns-beacons/)
+* [Finding Domain frontable Azure domains - thoth / Fionnbharr (@a_profligate)](https://theobsidiantower.com/2017/07/24/d0a7cfceedc42bdf3a36f2926bd52863ef28befc.html)
+* [Red Team Insights on HTTPS Domain Fronting Google Hosts Using Cobalt Strike](https://www.cyberark.com/threat-research-blog/red-team-insights-https-domain-fronting-google-hosts-using-cobalt-strike/)
+* [Escape and Evasion Egressing Restricted Networks - Tom Steele (@_tomsteele) and Chris Patten](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)
 
 ## Embedded and Peripheral Devices Hacking
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
+* [Practical Guide to RFID Badge copying](https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/)
+* [Contents of a Physical Pentester Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
+* [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof)
+* [Wireless Keyboard Sniffer](https://samy.pl/keysweeper/)
 
 ## Misc
 * [Red Tips of Vysec](https://github.com/vysec/RedTips)
-* []()
-* []()
+* [Cobalt Strike Tips for 2016 ccde red teams](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
+* [Models for Red Team Operations](https://blog.cobaltstrike.com/2015/07/09/models-for-red-team-operations/)
+* [Planning a Red Team exercise](https://github.com/magoo/redteam-plan)
 
 ## Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
@@ -137,6 +127,5 @@ Table of Contents
 
 ## Training ( Free )
 * [Tradecraft - a course on red team operations.](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
-* [Advanced Threat Tactics](https://www.youtube.com/watch?v=4w7krkqxRck&list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c)
-
+* [Advanced Threat Tactics Course and Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/
 
