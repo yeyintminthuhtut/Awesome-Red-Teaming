@@ -49,6 +49,8 @@ Table of Contents
 * [EMAIL RECONNAISSANCE AND PHISHING TEMPLATE GENERATION MADE SIMPLE](https://cybersyndicates.com/2016/05/email-reconnaissance-phishing-template-generation-made-simple/)
 * [An unnecessary addiction to DNS communication](https://blog.cobaltstrike.com/2015/05/14/an-unnecessary-addiction-to-dns-communication/)
 * [POWERSHELL EMPIRE STAGERS 1: PHISHING WITH AN OFFICE MACRO AND EVADING AVS](https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs/)
+* [Phishing with PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
+* [PHISHING WITH EMPIRE](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
 
 ## Implant Creation
 * [Exploiting CVE-2017-0199: HTA Handler Vulnerability](https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/)
@@ -60,7 +62,7 @@ Table of Contents
 * [Generate Macro - Tool](https://github.com/enigma0x3/Generate-Macro)
 * [How To: Empire’s Cross Platform Office Macro](https://www.blackhillsinfosec.com/empires-cross-platform-office-macro/)
 * [Excel macros with PowerShell](https://4sysops.com/archives/excel-macros-with-powershell/)
-* [Convert VBA Macros To PowerShell for Microsoft Office Automation](https://powershell.org/2016/02/18/convert-vba-macros-to-powershell-for-microsoft-office-automation/)
+* [PowerPoint and Custom Actions](https://phishme.com/powerpoint-and-custom-actions/)
 
 ## Lateral movement
 * [Eventvwr File-less UAC Bypass CNA](https://www.mdsec.co.uk/2016/12/cna-eventvwr-uac-bypass/)
