@@ -14,16 +14,16 @@ Table of Contents
  * [OSINT](#osint)
  * [Delivery](#delivery)
  * [Client Side Exploitation](#client-side-exploitation)
- * [Embedded and Peripheral Devices Hacking](#embedded-and-peripheral-device-hacking)
  * [Implant Creation](#implant-creation)
  * [Lateral movement](#lateral-movement)
  * [Command and Control](#command-and-control)
+ * [Embedded and Peripheral Devices Hacking](#embedded-and-peripheral-devices-hacking)
  * [Misc](#misc)
  * [Ebooks](#ebooks)
- * [Training](#training)
+ * [Training](#training--free-)
  * [Certification](#certification)
 
-## Social Engineering
+## [↑](#table-of-contents) Social Engineering
 
 * [Social Engineer Portal](https://www.social-engineer.org/)
 * [7 Best social Engineering attack](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411)
@@ -33,13 +33,13 @@ Table of Contents
 * [USB Drop Attacks: The Danger of “Lost And Found” Thumb Drives](https://www.redteamsecure.com/usb-drop-attacks-the-danger-of-lost-and-found-thumb-drives/)
 * [PyPhishing Toolkit](https://github.com/redteamsecurity/PyPhishing)
 
-## OSINT
+## [↑](#table-of-contents) OSINT
 
 * [Awesome list of OSINT](https://github.com/jivoi/awesome-osint) - A lot of awesome OSINT resources are already covered
 * [Reconnaissance using LinkedInt](https://www.mdsec.co.uk/2017/07/reconnaissance-using-linkedint/)
 
 
-## Delivery
+## [↑](#table-of-contents) Delivery
 
 * [Cobalt Strike - Spear Phishing documentation](https://www.cobaltstrike.com/help-spear-phish)
 * [Cobalt Strike Blog - What's the go-to phishing technique or exploit?](https://blog.cobaltstrike.com/2014/12/17/whats-the-go-to-phishing-technique-or-exploit/)
@@ -53,7 +53,7 @@ Table of Contents
 * [Phishing with PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
 * [PHISHING WITH EMPIRE](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
 
-## Implant Creation
+## [↑](#table-of-contents) Implant Creation
 * [Exploiting CVE-2017-0199: HTA Handler Vulnerability](https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/)
 * [CVE-2017-0199 Toolkit](https://github.com/bhdresh/CVE-2017-0199)
 * [CVE-2017-8759-Exploit-sample](https://github.com/vysec/CVE-2017-8759-Exploit-sample)
@@ -65,7 +65,7 @@ Table of Contents
 * [Excel macros with PowerShell](https://4sysops.com/archives/excel-macros-with-powershell/)
 * [PowerPoint and Custom Actions](https://phishme.com/powerpoint-and-custom-actions/)
 
-## Lateral movement
+## [↑](#table-of-contents) Lateral movement
 * [Eventvwr File-less UAC Bypass CNA](https://www.mdsec.co.uk/2016/12/cna-eventvwr-uac-bypass/)
 * [Lateral movement using excel application and dcom](https://enigma0x3.net/2017/09/11/lateral-movement-using-excel-application-and-dcom/)
 * [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)
@@ -78,7 +78,7 @@ Table of Contents
 * [Windows Access Tokens and Alternate credentials](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
 * [PSAmsi - An offensive PowerShell module for interacting with the Anti-Malware Scan Interface in Windows 10](http://www.irongeek.com/i.php?page=videos/derbycon7/t104-psamsi-an-offensive-powershell-module-for-interacting-with-the-anti-malware-scan-interface-in-windows-10-ryan-cobb)
 
-## Command and Control
+## [↑](#table-of-contents) Command and Control
 
 * [How to Build a C2 Infrastructure with Digital Ocean – Part 1](https://www.blackhillsinfosec.com/build-c2-infrastructure-digital-ocean-part-1/)
 * [Infrastructure for Ongoing Red Team Operations](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
@@ -104,31 +104,31 @@ Table of Contents
 * [Red Team Insights on HTTPS Domain Fronting Google Hosts Using Cobalt Strike](https://www.cyberark.com/threat-research-blog/red-team-insights-https-domain-fronting-google-hosts-using-cobalt-strike/)
 * [Escape and Evasion Egressing Restricted Networks - Tom Steele (@_tomsteele) and Chris Patten](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)
 
-## Embedded and Peripheral Devices Hacking
+## [↑](#table-of-contents) Embedded and Peripheral Devices Hacking
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
 * [Practical Guide to RFID Badge copying](https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/)
 * [Contents of a Physical Pentester Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
 * [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof)
 * [Wireless Keyboard Sniffer](https://samy.pl/keysweeper/)
 
-## Misc
+## [↑](#table-of-contents) Misc
 * [Red Tips of Vysec](https://github.com/vysec/RedTips)
 * [Cobalt Strike Tips for 2016 ccde red teams](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
 * [Models for Red Team Operations](https://blog.cobaltstrike.com/2015/07/09/models-for-red-team-operations/)
 * [Planning a Red Team exercise](https://github.com/magoo/redteam-plan)
 * [Raphael Mudge - Dirty Red Team tricks](https://www.youtube.com/watch?v=oclbbqvawQg)
 
-## Ebooks
+## [↑](#table-of-contents) Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
 * [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)
 * [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
 * [Social Engieers' Playbook Pretical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=talamantesus-20&linkId=37b63c7702c9be6b9f6a1b921c88c8cd)
 
-## Training ( Free )
+## [↑](#table-of-contents) Training ( Free )
 * [Tradecraft - a course on red team operations](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
 * [Advanced Threat Tactics Course & Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
 
-## Certification
+## [↑](#table-of-contents) Certification
 * [CREST Certified Simulated Attack Specialist](http://www.crest-approved.org/examination/certified-simulated-attack-specialist/)
 * [CREST Certified Simulated Attack Manager](http://www.crest-approved.org/examination/certified-simulated-attack-manager/)
 * [SEC564: Red Team Operations and Threat Emulation](https://www.sans.org/course/red-team-operations-and-threat-emulation)
