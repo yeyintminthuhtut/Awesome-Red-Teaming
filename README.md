@@ -10,18 +10,18 @@ You can help by sending Pull Requests to add more information.
 Table of Contents
 =================
 
- * [Social Engineering](#social-engineering)
- * [OSINT](#osint)
- * [Delivery](#delivery)
- * [Client Side Exploitation](#client-side-exploitation)
- * [Implant Creation](#implant-creation)
- * [Lateral movement](#lateral-movement)
- * [Command and Control](#command-and-control)
- * [Embedded and Peripheral Devices Hacking](#embedded-and-peripheral-devices-hacking)
- * [Misc](#misc)
- * [Ebooks](#ebooks)
- * [Training](#training--free-)
- * [Certification](#certification)
+ * [Social Engineering](#-social-engineering)
+ * [OSINT](#-osint)
+ * [Delivery](#-delivery)
+ * [Client Side Exploitation](#-client-side-exploitation)
+ * [Implant Creation](#-implant-creation)
+ * [Lateral movement](#-lateral-movement)
+ * [Command and Control](#-command-and-control)
+ * [Embedded and Peripheral Devices Hacking](#-embedded-and-peripheral-devices-hacking)
+ * [Misc](#-misc)
+ * [Ebooks](#-ebooks)
+ * [Training](#-training--free-)
+ * [Certification](#-certification)
 
 ## [↑](#table-of-contents) Social Engineering
 
