@@ -13,7 +13,6 @@ Table of Contents
  * [Social Engineering](#-social-engineering)
  * [OSINT](#-osint)
  * [Delivery](#-delivery)
- * [Client Side Exploitation](#-client-side-exploitation)
  * [Implant Creation](#-implant-creation)
  * [Lateral movement](#-lateral-movement)
  * [Command and Control](#-command-and-control)
