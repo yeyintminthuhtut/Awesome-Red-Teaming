@@ -76,6 +76,7 @@ Table of Contents
 * [OPSEC Considerations for beacon commands](https://blog.cobaltstrike.com/2017/06/23/opsec-considerations-for-beacon-commands/)
 * [Agentless Post Exploitation](https://blog.cobaltstrike.com/2016/11/03/agentless-post-exploitation/)
 * [Windows Access Tokens and Alternate credentials](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
+* [PSAmsi - An offensive PowerShell module for interacting with the Anti-Malware Scan Interface in Windows 10](http://www.irongeek.com/i.php?page=videos/derbycon7/t104-psamsi-an-offensive-powershell-module-for-interacting-with-the-anti-malware-scan-interface-in-windows-10-ryan-cobb)
 
 ## Command and Control
 
@@ -115,6 +116,7 @@ Table of Contents
 * [Cobalt Strike Tips for 2016 ccde red teams](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
 * [Models for Red Team Operations](https://blog.cobaltstrike.com/2015/07/09/models-for-red-team-operations/)
 * [Planning a Red Team exercise](https://github.com/magoo/redteam-plan)
+* [Raphael Mudge - Dirty Red Team tricks](https://www.youtube.com/watch?v=oclbbqvawQg)
 
 ## Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
