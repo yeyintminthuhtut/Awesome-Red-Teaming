@@ -31,14 +31,11 @@ Table of Contents
 * [OWASP Presentation of Social Engineering - OWASP](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
 * [USB Drop Attacks: The Danger of “Lost And Found” Thumb Drives](https://www.redteamsecure.com/usb-drop-attacks-the-danger-of-lost-and-found-thumb-drives/)
 * [PyPhishing Toolkit](https://github.com/redteamsecurity/PyPhishing)
-* []()
-
 
 ## OSINT
 
 * [Awesome list of OSINT](https://github.com/jivoi/awesome-osint) - A lot of awesome OSINT resources are already covered
 * [Reconnaissance using LinkedInt](https://www.mdsec.co.uk/2017/07/reconnaissance-using-linkedint/)
-* []()
 
 
 ## Delivery
@@ -51,8 +48,6 @@ Table of Contents
 * [EGRESSING BLUECOAT WITH COBALTSTIKE & LET'S ENCRYPT](https://cybersyndicates.com/2016/12/egressing-bluecoat-with-cobaltstike-letsencrypt/)
 * [EMAIL RECONNAISSANCE AND PHISHING TEMPLATE GENERATION MADE SIMPLE](https://cybersyndicates.com/2016/05/email-reconnaissance-phishing-template-generation-made-simple/)
 * [An unnecessary addiction to DNS communication](https://blog.cobaltstrike.com/2015/05/14/an-unnecessary-addiction-to-dns-communication/)
-* []()
-
 
 ## Implant Creation
 * [Exploiting CVE-2017-0199: HTA Handler Vulnerability](https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/)
@@ -61,8 +56,7 @@ Table of Contents
 * [Window Signed Binary](https://github.com/vysec/Windows-SignedBinary)
 * [Wepwnise](https://labs.mwrinfosecurity.com/tools/wepwnise/)
 * [Bash Bunny](https://hakshop.com/products/bash-bunny)
-* []()
-* []()
+
 
 ## Lateral movement
 * [Eventvwr File-less UAC Bypass CNA](https://www.mdsec.co.uk/2016/12/cna-eventvwr-uac-bypass/)
@@ -75,8 +69,6 @@ Table of Contents
 * [OPSEC Considerations for beacon commands](https://blog.cobaltstrike.com/2017/06/23/opsec-considerations-for-beacon-commands/)
 * [Agentless Post Exploitation](https://blog.cobaltstrike.com/2016/11/03/agentless-post-exploitation/)
 * [Windows Access Tokens and Alternate credentials](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
-* []()
-
 
 ## Command and Control
 
