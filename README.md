@@ -63,6 +63,10 @@ Table of Contents
 * [How To: Empire’s Cross Platform Office Macro](https://www.blackhillsinfosec.com/empires-cross-platform-office-macro/)
 * [Excel macros with PowerShell](https://4sysops.com/archives/excel-macros-with-powershell/)
 * [PowerPoint and Custom Actions](https://phishme.com/powerpoint-and-custom-actions/)
+* [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief)
+* [Hiding your process from sysinternals](https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/)
+* [Luckystrike: An Evil Office Document Generator](https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator)
+
 
 ## [↑](#table-of-contents) Lateral movement
 * [Eventvwr File-less UAC Bypass CNA](https://www.mdsec.co.uk/2016/12/cna-eventvwr-uac-bypass/)
@@ -76,6 +80,7 @@ Table of Contents
 * [Agentless Post Exploitation](https://blog.cobaltstrike.com/2016/11/03/agentless-post-exploitation/)
 * [Windows Access Tokens and Alternate credentials](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
 * [PSAmsi - An offensive PowerShell module for interacting with the Anti-Malware Scan Interface in Windows 10](http://www.irongeek.com/i.php?page=videos/derbycon7/t104-psamsi-an-offensive-powershell-module-for-interacting-with-the-anti-malware-scan-interface-in-windows-10-ryan-cobb)
+* [Lay of the Land with BloodHound](http://threat.tevora.com/lay-of-the-land-with-bloodhound/)
 
 ## [↑](#table-of-contents) Command and Control
 
@@ -101,7 +106,15 @@ Table of Contents
 * [Redirecting Cobalt Strike DNS Beacons](http://www.rvrsh3ll.net/blog/offensive/redirecting-cobalt-strike-dns-beacons/)
 * [Finding Domain frontable Azure domains - thoth / Fionnbharr (@a_profligate)](https://theobsidiantower.com/2017/07/24/d0a7cfceedc42bdf3a36f2926bd52863ef28befc.html)
 * [Red Team Insights on HTTPS Domain Fronting Google Hosts Using Cobalt Strike](https://www.cyberark.com/threat-research-blog/red-team-insights-https-domain-fronting-google-hosts-using-cobalt-strike/)
-* [Escape and Evasion Egressing Restricted Networks - Tom Steele (@_tomsteele) and Chris Patten](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)
+* [Escape and Evasion Egressing Restricted Networks - Tom Steele and Chris Patten](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)
+* [Command and Control Using Active Directory](http://www.harmj0y.net/blog/powershell/command-and-control-using-active-directory/)
+* [C2 with twitter](https://pentestlab.blog/2017/09/26/command-and-control-twitter/)
+* [C2 with DNS](https://pentestlab.blog/2017/09/06/command-and-control-dns/)
+* [ICMP C2](https://pentestlab.blog/2017/07/28/command-and-control-icmp/)
+* [C2 with Dropbox](https://pentestlab.blog/2017/08/29/command-and-control-dropbox/)
+* [C2 with https](https://pentestlab.blog/2017/10/04/command-and-control-https/)
+* [C2 with webdav](https://pentestlab.blog/2017/09/12/command-and-control-webdav/)
+* [C2 with gmail](https://pentestlab.blog/2017/08/03/command-and-control-gmail/)
 
 ## [↑](#table-of-contents) Embedded and Peripheral Devices Hacking
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
