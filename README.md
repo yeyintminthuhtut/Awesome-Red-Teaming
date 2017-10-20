@@ -70,6 +70,7 @@ Table of Contents
 * [The Absurdly Underestimated Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html)
 * [Macro-less Code Exec in MSWord](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
 * [Multi-Platform Macro Phishing Payloads](https://medium.com/@malcomvetter/multi-platform-macro-phishing-payloads-3b688e8eff68)
+* [Macroless DOC malware that avoids detection with Yara rule](https://furoner.wordpress.com/2017/10/17/macroless-malware-that-avoids-detection-with-yara-rule/amp/)
 
 ## [↑](#table-of-contents) Lateral movement
 * [Eventvwr File-less UAC Bypass CNA](https://www.mdsec.co.uk/2016/12/cna-eventvwr-uac-bypass/)
@@ -86,6 +87,10 @@ Table of Contents
 * [Lay of the Land with BloodHound](http://threat.tevora.com/lay-of-the-land-with-bloodhound/)
 * [Bringing the hashes home with reGeorg & Empire](https://sensepost.com/blog/2016/bringing-the-hashes-home-with-regeorg-empire/)
 * [Intercepting passwords with Empire and winning](https://sensepost.com/blog/2016/intercepting-passwords-with-empire-and-winning/)
+* [Outlook Home Page – Another Ruler Vector](https://sensepost.com/blog/2017/outlook-home-page-another-ruler-vector/)
+* [Outlook Forms and Shells](https://sensepost.com/blog/2017/outlook-forms-and-shells/)
+* [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
+
 
 ## [↑](#table-of-contents) Command and Control
 
@@ -120,6 +125,7 @@ Table of Contents
 * [C2 with https](https://pentestlab.blog/2017/10/04/command-and-control-https/)
 * [C2 with webdav](https://pentestlab.blog/2017/09/12/command-and-control-webdav/)
 * [C2 with gmail](https://pentestlab.blog/2017/08/03/command-and-control-gmail/)
+* [“Tasking” Office 365 for Cobalt Strike C2](https://labs.mwrinfosecurity.com/blog/tasking-office-365-for-cobalt-strike-c2/)
 
 ## [↑](#table-of-contents) Embedded and Peripheral Devices Hacking
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
@@ -132,6 +138,7 @@ Table of Contents
 * [Exploring NFC Attack Surface](https://media.blackhat.com/bh-us-12/Briefings/C_Miller/BH_US_12_Miller_NFC_attack_surface_WP.pdf)
 * [Outsmarting smartcards](http://gerhard.dekoninggans.nl/documents/publications/dekoninggans.phd.thesis.pdf)
 * [Reverse engineering HID iClass Master keys](https://blog.kchung.co/reverse-engineering-hid-iclass-master-keys/)
+* [Android Open Pwn Project (AOPP)](https://www.pwnieexpress.com/aopp)
 
 ## [↑](#table-of-contents) Misc
 * [Red Tips of Vysec](https://github.com/vysec/RedTips)
