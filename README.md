@@ -31,6 +31,8 @@ Table of Contents
 * [OWASP Presentation of Social Engineering - OWASP](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
 * [USB Drop Attacks: The Danger of “Lost And Found” Thumb Drives](https://www.redteamsecure.com/usb-drop-attacks-the-danger-of-lost-and-found-thumb-drives/)
 * [PyPhishing Toolkit](https://github.com/redteamsecurity/PyPhishing)
+* [List of Public Password Dumps](https://publicdbhost.dmca.gripe/)
+
 
 ## [↑](#table-of-contents) OSINT
 
