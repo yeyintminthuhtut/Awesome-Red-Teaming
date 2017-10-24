@@ -51,6 +51,7 @@ Table of Contents
 * [POWERSHELL EMPIRE STAGERS 1: PHISHING WITH AN OFFICE MACRO AND EVADING AVS](https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs/)
 * [Phishing with PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
 * [PHISHING WITH EMPIRE](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
+* [Empire & Tool Diversity: Integration is Key](http://www.sixdub.net/?p=627)
 
 
 ## [↑](#table-of-contents) Implant Creation
@@ -90,6 +91,7 @@ Table of Contents
 * [Outlook Home Page – Another Ruler Vector](https://sensepost.com/blog/2017/outlook-home-page-another-ruler-vector/)
 * [Outlook Forms and Shells](https://sensepost.com/blog/2017/outlook-forms-and-shells/)
 * [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
+* [A Guide to Configuring Throwback](https://silentbreaksecurity.com/throwback-thursday-a-guide-to-configuring-throwback/)
 
 
 ## [↑](#table-of-contents) Command and Control
@@ -126,6 +128,7 @@ Table of Contents
 * [C2 with webdav](https://pentestlab.blog/2017/09/12/command-and-control-webdav/)
 * [C2 with gmail](https://pentestlab.blog/2017/08/03/command-and-control-gmail/)
 * [“Tasking” Office 365 for Cobalt Strike C2](https://labs.mwrinfosecurity.com/blog/tasking-office-365-for-cobalt-strike-c2/)
+* [Simple domain fronting PoC with GAE C2 server](https://www.securityartwork.es/2017/01/31/simple-domain-fronting-poc-with-gae-c2-server/)
 
 ## [↑](#table-of-contents) Embedded and Peripheral Devices Hacking
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
