@@ -80,7 +80,10 @@ Table of Contents
 * [Bypassing Application Whitelisting using MSBuild.exe - Device Guard Example and Mitigations](http://subt0x10.blogspot.sg/2017/04/bypassing-application-whitelisting.html)
 * [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
 * [Week of Evading Microsoft ATA - Announcement and Day 1 to Day 5](http://www.labofapenetrationtester.com/2017/08/week-of-evading-microsoft-ata-day1.html)
-* [AMSI: How Windows 10 Plans to Stop Script-Based Attacks and How Well It Does It](http://www.labofapenetrationtester.com/2016/09/amsi.html)
+* [AMSI How Windows 10 Plans to Stop Script-Based Attacks and How Well It Does It](http://www.labofapenetrationtester.com/2016/09/amsi.html)
+* [USING A SCF FILE TO GATHER HASHES](https://1337red.wordpress.com/using-a-scf-file-to-gather-hashes/)
+* [USING THE DDE ATTACK WITH POWERSHELL EMPIRE](https://1337red.wordpress.com/using-the-dde-attack-with-powershell-empire/)
+* [AVSignSeek](https://github.com/hegusung/AVSignSeek)
 
 
 ## [↑](#table-of-contents) Lateral movement
@@ -104,7 +107,7 @@ Table of Contents
 * [A Guide to Configuring Throwback](https://silentbreaksecurity.com/throwback-thursday-a-guide-to-configuring-throwback/)
 * [Abusing DNSAdmins privilege for escalation in Active Directory] (http://www.labofapenetrationtester.com/2017/05/abusing-dnsadmins-privilege-for-escalation-in-active-directory.html)
 * [Using SQL Server for attacking a Forest Trust](http://www.labofapenetrationtester.com/2017/03/using-sql-server-for-attacking-forest-trust.html)
-
+* [Extending BloodHound for Red Teamers](https://www.youtube.com/watch?v=Pn7GWRXfgeI)
 
 ## [↑](#table-of-contents) Command and Control
 
