@@ -55,6 +55,7 @@ Table of Contents
 * [Empire & Tool Diversity: Integration is Key](http://www.sixdub.net/?p=627)
 * [Phishing for access](http://www.rvrsh3ll.net/blog/phishing/phishing-for-access/)
 
+
 ## [↑](#table-of-contents) Implant Creation
 * [Exploiting CVE-2017-0199: HTA Handler Vulnerability](https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/)
 * [CVE-2017-0199 Toolkit](https://github.com/bhdresh/CVE-2017-0199)
@@ -85,7 +86,9 @@ Table of Contents
 * [USING THE DDE ATTACK WITH POWERSHELL EMPIRE](https://1337red.wordpress.com/using-the-dde-attack-with-powershell-empire/)
 * [AVSignSeek](https://github.com/hegusung/AVSignSeek)
 * [Keying Payloads for Scripting Languages](https://adapt-and-attack.com/2017/11/15/keying-payloads-for-scripting-languages/)
-
+* [Executing Metasploit & Empire Payloads from MS Office Document Properties (part 1 of 2)](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2/)
+* [Executing Metasploit & Empire Payloads from MS Office Document Properties (part 2 of 2)](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-2-of-2/)
+* [Microsoft Office – NTLM Hashes via Frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
 
 
 ## [↑](#table-of-contents) Lateral movement
@@ -150,6 +153,9 @@ Table of Contents
 * [Using WebDAV features as a covert channel](https://arno0x0x.wordpress.com/2017/09/07/using-webdav-features-as-a-covert-channel/)
 * [Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command & Control Tool](https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a)
 * [InternetExplorer.Application for C2](https://adapt-and-attack.com/2017/12/19/internetexplorer-application-for-c2/)
+* [C2 WebSocket](https://pentestlab.blog/2017/12/06/command-and-control-websocket/)
+* [C2 WMI](https://pentestlab.blog/2017/11/20/command-and-control-wmi/)
+* [C2 Website](https://pentestlab.blog/2017/11/14/command-and-control-website/)
 
 
 
