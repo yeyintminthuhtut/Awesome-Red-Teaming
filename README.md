@@ -53,7 +53,7 @@ Table of Contents
 * [Phishing with PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
 * [PHISHING WITH EMPIRE](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
 * [Empire & Tool Diversity: Integration is Key](http://www.sixdub.net/?p=627)
-
+* [Phishing for access](http://www.rvrsh3ll.net/blog/phishing/phishing-for-access/)
 
 ## [↑](#table-of-contents) Implant Creation
 * [Exploiting CVE-2017-0199: HTA Handler Vulnerability](https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/)
@@ -84,6 +84,8 @@ Table of Contents
 * [USING A SCF FILE TO GATHER HASHES](https://1337red.wordpress.com/using-a-scf-file-to-gather-hashes/)
 * [USING THE DDE ATTACK WITH POWERSHELL EMPIRE](https://1337red.wordpress.com/using-the-dde-attack-with-powershell-empire/)
 * [AVSignSeek](https://github.com/hegusung/AVSignSeek)
+* [Keying Payloads for Scripting Languages](https://adapt-and-attack.com/2017/11/15/keying-payloads-for-scripting-languages/)
+
 
 
 ## [↑](#table-of-contents) Lateral movement
@@ -146,6 +148,10 @@ Table of Contents
 * [“Tasking” Office 365 for Cobalt Strike C2](https://labs.mwrinfosecurity.com/blog/tasking-office-365-for-cobalt-strike-c2/)
 * [Simple domain fronting PoC with GAE C2 server](https://www.securityartwork.es/2017/01/31/simple-domain-fronting-poc-with-gae-c2-server/)
 * [Using WebDAV features as a covert channel](https://arno0x0x.wordpress.com/2017/09/07/using-webdav-features-as-a-covert-channel/)
+* [Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command & Control Tool](https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a)
+* [InternetExplorer.Application for C2](https://adapt-and-attack.com/2017/12/19/internetexplorer-application-for-c2/)
+
+
 
 ## [↑](#table-of-contents) Embedded and Peripheral Devices Hacking
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
