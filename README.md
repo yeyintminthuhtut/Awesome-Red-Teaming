@@ -156,6 +156,9 @@ Table of Contents
 * [C2 WebSocket](https://pentestlab.blog/2017/12/06/command-and-control-websocket/)
 * [C2 WMI](https://pentestlab.blog/2017/11/20/command-and-control-wmi/)
 * [C2 Website](https://pentestlab.blog/2017/11/14/command-and-control-website/)
+* [C2 Image](https://pentestlab.blog/2018/01/02/command-and-control-images/)
+* [C2 Javascript](https://pentestlab.blog/2018/01/08/command-and-control-javascript/)
+* [C2 WebInterface](https://pentestlab.blog/2018/01/03/command-and-control-web-interface/)
 
 
 
