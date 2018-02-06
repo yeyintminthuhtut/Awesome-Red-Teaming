@@ -115,6 +115,7 @@ Table of Contents
 * [Extending BloodHound for Red Teamers](https://www.youtube.com/watch?v=Pn7GWRXfgeI)
 * [Pass hash pass ticket no pain](http://resources.infosecinstitute.com/pass-hash-pass-ticket-no-pain/)
 * [process doppelganging](https://hshrzd.wordpress.com/2017/12/18/process-doppelganging-a-new-way-to-impersonate-a-process/)
+* [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList)
 
 ## [↑](#table-of-contents) Command and Control
 
