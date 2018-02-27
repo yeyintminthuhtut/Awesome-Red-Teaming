@@ -131,9 +131,9 @@ Table of Contents
 * [Exploiting Environment Variables in Scheduled Tasks for UAC Bypass,](https://tyranidslair.blogspot.ru/2017/05/exploiting-environment-variables-in.html)
 * [First entry: Welcome and fileless UAC bypass,](https://winscripting.blog/2017/05/12/first-entry-welcome-and-uac-bypass/)
 * Reading Your Way Around UAC in 3 parts:
-   [Part 1.][https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-1.html)
+   [Part 1.](https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-1.html)
    [Part 2.](https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-2.html)
-   [Part 3.](https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-3.html )
+   [Part 3.](https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-3.html)
 * [Research on CMSTP.exe,](https://msitpros.com/?p=3960)
 
 ## [↑](#table-of-contents) Command and Control
