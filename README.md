@@ -32,6 +32,7 @@ Table of Contents
 * [USB Drop Attacks: The Danger of “Lost And Found” Thumb Drives](https://www.redteamsecure.com/usb-drop-attacks-the-danger-of-lost-and-found-thumb-drives/)
 * [PyPhishing Toolkit](https://github.com/redteamsecurity/PyPhishing)
 * [Best Time to send email](https://coschedule.com/blog/best-time-to-send-email/)
+* [Phishing on Twitter - POT](https://www.kitploit.com/2018/02/pot-phishing-on-twitter.html)
 
 ## [↑](#table-of-contents) OSINT
 
@@ -90,6 +91,9 @@ Table of Contents
 * [Executing Metasploit & Empire Payloads from MS Office Document Properties (part 2 of 2)](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-2-of-2/)
 * [Microsoft Office – NTLM Hashes via Frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
 * [Abusing Microsoft Word Features for Phishing: “subDoc”](https://rhinosecuritylabs.com/research/abusing-microsoft-word-features-phishing-subdoc/)
+* [code signing certificate cloning attacks and defenses](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
+* [userland api monitoring and code injection detection](https://0x00sec.org/t/userland-api-monitoring-and-code-injection-detection/5565)
+* [In memory evasion](https://blog.cobaltstrike.com/2018/02/08/in-memory-evasion/)
 
 ## [↑](#table-of-contents) Lateral movement
 * [Eventvwr File-less UAC Bypass CNA](https://www.mdsec.co.uk/2016/12/cna-eventvwr-uac-bypass/)
@@ -135,6 +139,8 @@ Table of Contents
    [Part 2.](https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-2.html)
    [Part 3.](https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-3.html)
 * [Research on CMSTP.exe,](https://msitpros.com/?p=3960)
+* [hiding registry keys with psreflect](https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353)
+* [a guide to attacking domain trusts](https://posts.specterops.io/a-guide-to-attacking-domain-trusts-971e52cb2944)
 
 ## [↑](#table-of-contents) Command and Control
 
@@ -180,6 +186,8 @@ Table of Contents
 * [C2 Image](https://pentestlab.blog/2018/01/02/command-and-control-images/)
 * [C2 Javascript](https://pentestlab.blog/2018/01/08/command-and-control-javascript/)
 * [C2 WebInterface](https://pentestlab.blog/2018/01/03/command-and-control-web-interface/)
+* [Safe Red Team Infrastructure](https://medium.com/@malcomvetter/safe-red-team-infrastructure-c5d6a0f13fac)
+* []()
 
 
 
@@ -202,6 +210,9 @@ Table of Contents
 * [Models for Red Team Operations](https://blog.cobaltstrike.com/2015/07/09/models-for-red-team-operations/)
 * [Planning a Red Team exercise](https://github.com/magoo/redteam-plan)
 * [Raphael Mudge - Dirty Red Team tricks](https://www.youtube.com/watch?v=oclbbqvawQg)
+* [introducing the adversary resilience methodology part 1](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604)
+* [introducing the adversary resilience methodology part 2](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d)
+* [Responsible red team](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
 
 ## [↑](#table-of-contents) Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
