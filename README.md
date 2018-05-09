@@ -209,6 +209,7 @@ Table of Contents
 * [DNS Tunnelling](http://resources.infosecinstitute.com/dns-tunnelling/)
 * [sg1: swiss army knife for data encryption, exfiltration & covert communication](https://securityonline.info/sg1-swiss-army-knife-for-data-encryption-exfiltration-covert-communication/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 * [Data Exfiltration over DNS Request Covert Channel: DNSExfiltrator](https://n0where.net/data-exfiltration-over-dns-request-covert-channel-dnsexfiltrator)
+* [DET (extensible) Data Exfiltration Toolkit](https://github.com/PaulSec/DET)
 
 
 ## [↑](#table-of-contents) Command and Control
