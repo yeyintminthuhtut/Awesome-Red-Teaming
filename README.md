@@ -25,6 +25,7 @@ Table of Contents
  * [Command and Control](#-command-and-control)
  * [Embedded and Peripheral Devices Hacking](#-embedded-and-peripheral-devices-hacking)
  * [Misc](#-misc)
+ * [RedTeam Gadgets](#-redteam-gadgets)
  * [Ebooks](#-ebooks)
  * [Training](#-training--free-)
  * [Certification](#-certification)
@@ -333,6 +334,33 @@ Table of Contents
 * [How I Prepared to Red Team at PRCCDC 2015](https://bluescreenofjeff.com/2015-04-15-how-i-prepared-to-red-team-at-prccdc-2015/)
 * [Red Teaming for Pacific Rim CCDC 2016](https://bluescreenofjeff.com/2016-05-24-pacific-rim-ccdc_2016/)
 * [Responsible Red Teams](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
+
+## [↑](#redteam-gadgets) Red Team Gadgets
+#### Network Implants
+* [LAN Tap Pro](https://hackerwarehouse.com/product/lan-tap-pro/)
+* [Rubber Ducky](https://hakshop.com/collections/physical-access/products/usb-rubber-ducky-deluxe)
+* [LAN Turtle](https://hakshop.com/collections/network-implants/products/lan-turtle)
+* [Bash Bunny](https://hakshop.com/collections/physical-access/products/bash-bunny)
+* [PACKET SQUIRRE](https://hakshop.com/products/packet-squirrel)
+#### Wifi Auditing
+* [WiFi Pineapple](https://hakshop.com/products/wifi-pineapple)
+* [Alpha Long range Wireless USB](https://hackerwarehouse.com/product/alfa-802-11bgn-long-range-usb-wireless-adapter/)
+* [Wifi-Deauth Monster](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster/)
+#### IoT
+* [BLE Key](https://hackerwarehouse.com/product/blekey/)
+* [Proxmark3](https://hackerwarehouse.com/product/proxmark3-kit/)
+* [Zigbee Sniffer](https://www.attify-store.com/products/zigbee-sniffing-tool-atmel-rzraven)
+* [Attify IoT Exploit kit](https://www.attify-store.com/collections/frontpage/products/jtag-exploitation-kit-with-lab-manual)
+#### Software Defined Radio - SDR
+* [HackRF One Bundle](https://hackerwarehouse.com/product/hackrf-one-kit/)
+* [RTL-SDR](https://hackerwarehouse.com/product/rtlsdr/)
+* [YARD stick one Bundle](https://hackerwarehouse.com/product/yard-stick-one-kit/)
+* [Ubertooth](https://hackerwarehouse.com/product/ubertooth-one/)
+#### Misc
+* [Key Grabber](https://hackerwarehouse.com/product/keygrabber/)
+* [Magspoof](https://store.ryscc.com/products/magspoof%20)
+* [Poison tap](https://samy.pl/poisontap/)
+* [keysweeper](https://samy.pl/keysweeper/)
 
 ## [↑](#table-of-contents) Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
