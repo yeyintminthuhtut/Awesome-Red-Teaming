@@ -335,7 +335,7 @@ Table of Contents
 * [Red Teaming for Pacific Rim CCDC 2016](https://bluescreenofjeff.com/2016-05-24-pacific-rim-ccdc_2016/)
 * [Responsible Red Teams](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
 
-## [↑](#redteam-gadgets) RedTeam Gadgets
+## [↑](#table-of-contents) RedTeam Gadgets
 #### Network Implants
 * [LAN Tap Pro](https://hackerwarehouse.com/product/lan-tap-pro/)
 * [Rubber Ducky](https://hakshop.com/collections/physical-access/products/usb-rubber-ducky-deluxe)
