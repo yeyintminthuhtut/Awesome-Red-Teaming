@@ -346,6 +346,7 @@ Table of Contents
 * [WiFi Pineapple](https://hakshop.com/products/wifi-pineapple)
 * [Alpha Long range Wireless USB](https://hackerwarehouse.com/product/alfa-802-11bgn-long-range-usb-wireless-adapter/)
 * [Wifi-Deauth Monster](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster/)
+* [Crazy PA](https://www.amazon.com/gp/product/B00VYA3A2U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VYA3A2U&linkCode=as2&tag=jrenard-20&linkId=f5ebfa29c33f2e99d2a8ff0c2c30c79b)
 #### IoT
 * [BLE Key](https://hackerwarehouse.com/product/blekey/)
 * [Proxmark3](https://hackerwarehouse.com/product/proxmark3-kit/)
