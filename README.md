@@ -153,6 +153,7 @@ Table of Contents
 * [Offensive Encrypted Data Storage](https://www.harmj0y.net/blog/redteaming/offensive-encrypted-data-storage/)
 * [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
 * [Dump Clear-Text Passwords for All Admins in the Domain Using Mimikatz DCSync](https://adsecurity.org/?p=2053)
+* [Dumping Domain Password Hashes](https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/)
   
 ## [↑](#table-of-contents) Discovery
 * [Red Team Operating in a Modern Environment](https://www.owasp.org/images/4/4b/Red_Team_Operating_in_a_Modern_Environment.pdf)
@@ -171,6 +172,7 @@ Table of Contents
 * [Scanning for Active Directory Privileges & Privileged Accounts](https://adsecurity.org/?p=3658)
 * [Microsoft LAPS Security & Active Directory LAPS Configuration Recon](https://adsecurity.org/?p=3164)
 * [Trust Direction: An Enabler for Active Directory Enumeration and Trust Exploitation](https://bohops.com/2017/12/02/trust-direction-an-enabler-for-active-directory-enumeration-and-trust-exploitation/)
+* [SPN Discovery](https://pentestlab.blog/2018/06/04/spn-discovery/)
    
 ## [↑](#table-of-contents) Lateral Movement 
 
