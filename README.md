@@ -344,10 +344,9 @@ Table of Contents
 ## [↑](#table-of-contents) RedTeam Gadgets
 #### Network Implants
 * [LAN Tap Pro](https://hackerwarehouse.com/product/lan-tap-pro/)
-* [Rubber Ducky](https://hakshop.com/collections/physical-access/products/usb-rubber-ducky-deluxe)
 * [LAN Turtle](https://hakshop.com/collections/network-implants/products/lan-turtle)
 * [Bash Bunny](https://hakshop.com/collections/physical-access/products/bash-bunny)
-* [PACKET SQUIRRE](https://hakshop.com/products/packet-squirrel)
+* [Packet Squirrel](https://hakshop.com/products/packet-squirrel)
 #### Wifi Auditing
 * [WiFi Pineapple](https://hakshop.com/products/wifi-pineapple)
 * [Alpha Long range Wireless USB](https://hackerwarehouse.com/product/alfa-802-11bgn-long-range-usb-wireless-adapter/)
@@ -368,6 +367,7 @@ Table of Contents
 * [Magspoof](https://store.ryscc.com/products/magspoof%20)
 * [Poison tap](https://samy.pl/poisontap/)
 * [keysweeper](https://samy.pl/keysweeper/)
+* [USB Rubber Ducky](https://hakshop.com/collections/physical-access/products/usb-rubber-ducky-deluxe)
 
 ## [↑](#table-of-contents) Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
