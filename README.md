@@ -351,7 +351,7 @@ Table of Contents
 * [WiFi Pineapple](https://hakshop.com/products/wifi-pineapple)
 * [Alpha Long range Wireless USB](https://hackerwarehouse.com/product/alfa-802-11bgn-long-range-usb-wireless-adapter/)
 * [Wifi-Deauth Monster](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster/)
-* [Crazy PA](https://www.amazon.com/gp/product/B00VYA3A2U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VYA3A2U&linkCode=as2&tag=jrenard-20&linkId=f5ebfa29c33f2e99d2a8ff0c2c30c79b)
+* [Crazy PA](https://www.amazon.com/gp/product/B00VYA3A2U/ref=as_li_tl)
 #### IoT
 * [BLE Key](https://hackerwarehouse.com/product/blekey/)
 * [Proxmark3](https://hackerwarehouse.com/product/proxmark3-kit/)
@@ -373,7 +373,7 @@ Table of Contents
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
 * [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)
 * [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
-* [Social Engieers' Playbook Pretical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=talamantesus-20&linkId=37b63c7702c9be6b9f6a1b921c88c8cd)
+* [Social Engieers' Playbook Pretical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/)
 
 ## [↑](#table-of-contents) Training ( Free )
 * [Tradecraft - a course on red team operations](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
