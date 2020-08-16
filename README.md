@@ -32,6 +32,7 @@ Table of Contents
  
  
 ## [↑](#table-of-contents) Initial Access
+* [The Hitchhiker’s Guide To Initial Access](https://posts.specterops.io/the-hitchhikers-guide-to-initial-access-57b66aa80dd6)
 * [How To: Empire’s Cross Platform Office Macro](https://www.blackhillsinfosec.com/empires-cross-platform-office-macro/)
 * [Phishing with PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
 * [PHISHING WITH EMPIRE](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
@@ -385,3 +386,6 @@ Table of Contents
 * [CREST Certified Simulated Attack Manager](http://www.crest-approved.org/examination/certified-simulated-attack-manager/)
 * [SEC564: Red Team Operations and Threat Emulation](https://www.sans.org/course/red-team-operations-and-threat-emulation)
 * [ELearn Security Penetration Testing eXtreme](https://www.elearnsecurity.com/course/penetration_testing_extreme/)
+* [Certified Red Team Professional](https://www.pentesteracademy.com/activedirectorylab)
+* [Certified Red Teaming Expert](https://www.pentesteracademy.com/redteamlab)
+* [PentesterAcademy Certified Enterprise Security Specialist (PACES)](https://www.pentesteracademy.com/gcb)
