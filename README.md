@@ -347,12 +347,15 @@ Table of Contents
 * [LAN Tap Pro](https://hackerwarehouse.com/product/lan-tap-pro/)
 * [LAN Turtle](https://hakshop.com/collections/network-implants/products/lan-turtle)
 * [Bash Bunny](https://hakshop.com/collections/physical-access/products/bash-bunny)
+* [Key Croc](https://shop.hak5.org/collections/sale/products/key-croc)
 * [Packet Squirrel](https://hakshop.com/products/packet-squirrel)
+* [Shark Jack](https://shop.hak5.org/collections/sale/products/shark-jack)
 #### Wifi Auditing
 * [WiFi Pineapple](https://hakshop.com/products/wifi-pineapple)
 * [Alpha Long range Wireless USB](https://hackerwarehouse.com/product/alfa-802-11bgn-long-range-usb-wireless-adapter/)
 * [Wifi-Deauth Monster](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster/)
 * [Crazy PA](https://www.amazon.com/gp/product/B00VYA3A2U/ref=as_li_tl)
+* [Signal Owl](https://shop.hak5.org/products/signal-owl)
 #### IoT
 * [BLE Key](https://hackerwarehouse.com/product/blekey/)
 * [Proxmark3](https://hackerwarehouse.com/product/proxmark3-kit/)
@@ -369,6 +372,9 @@ Table of Contents
 * [Poison tap](https://samy.pl/poisontap/)
 * [keysweeper](https://samy.pl/keysweeper/)
 * [USB Rubber Ducky](https://hakshop.com/collections/physical-access/products/usb-rubber-ducky-deluxe)
+* [Screen Crab](https://shop.hak5.org/collections/sale/products/screen-crab)
+* [O.MG Cable](https://shop.hak5.org/collections/featured-makers/products/o-mg-cable)
+* [Keysy](https://shop.hak5.org/collections/featured-makers/products/keysy)
 
 ## [↑](#table-of-contents) Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
