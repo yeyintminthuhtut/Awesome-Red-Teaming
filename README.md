@@ -341,6 +341,7 @@ Table of Contents
 * [How I Prepared to Red Team at PRCCDC 2015](https://bluescreenofjeff.com/2015-04-15-how-i-prepared-to-red-team-at-prccdc-2015/)
 * [Red Teaming for Pacific Rim CCDC 2016](https://bluescreenofjeff.com/2016-05-24-pacific-rim-ccdc_2016/)
 * [Responsible Red Teams](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
+* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
 
 ## [↑](#table-of-contents) RedTeam Gadgets
 #### Network Implants
