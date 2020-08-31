@@ -342,6 +342,7 @@ Table of Contents
 * [Red Teaming for Pacific Rim CCDC 2016](https://bluescreenofjeff.com/2016-05-24-pacific-rim-ccdc_2016/)
 * [Responsible Red Teams](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
 * [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
+* RedTeaming from Zero to One [Part-1](https://payatu.com/redteaming-from-zero-to-one-part-1) [Part-2](https://payatu.com/redteaming-zero-one-part-2)
 
 ## [↑](#table-of-contents) RedTeam Gadgets
 #### Network Implants
