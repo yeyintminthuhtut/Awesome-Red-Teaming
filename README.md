@@ -390,6 +390,11 @@ Table of Contents
 * [Advanced Threat Tactics Course & Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
 * [FireEye - a whiteboard session on red team operations](https://www.fireeye.com/services/red-team-assessments/red-team-operations-video-training.html)
 
+#### Home Lab
+* [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
+* [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
+* [vulnerable-AD - Script make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD)
+
 ## [↑](#table-of-contents) Certification
 * [CREST Certified Simulated Attack Specialist](http://www.crest-approved.org/examination/certified-simulated-attack-specialist/)
 * [CREST Certified Simulated Attack Manager](http://www.crest-approved.org/examination/certified-simulated-attack-manager/)
