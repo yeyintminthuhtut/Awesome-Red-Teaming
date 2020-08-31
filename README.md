@@ -394,7 +394,7 @@ Table of Contents
 #### Home Lab
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
-* [vulnerable-AD - Script make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD)
+* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD)
 
 ## [↑](#table-of-contents) Certification
 * [CREST Certified Simulated Attack Specialist](http://www.crest-approved.org/examination/certified-simulated-attack-specialist/)
