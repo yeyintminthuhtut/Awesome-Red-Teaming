@@ -342,6 +342,7 @@ Table of Contents
 * [Red Teaming for Pacific Rim CCDC 2016](https://bluescreenofjeff.com/2016-05-24-pacific-rim-ccdc_2016/)
 * [Responsible Red Teams](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
 * [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
+* RedTeaming from Zero to One [Part-1](https://payatu.com/redteaming-from-zero-to-one-part-1) [Part-2](https://payatu.com/redteaming-zero-one-part-2)
 
 ## [↑](#table-of-contents) RedTeam Gadgets
 #### Network Implants
@@ -393,7 +394,7 @@ Table of Contents
 #### Home Lab
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
-* [vulnerable-AD - Script make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD)
+* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD)
 
 ## [↑](#table-of-contents) Certification
 * [CREST Certified Simulated Attack Specialist](http://www.crest-approved.org/examination/certified-simulated-attack-specialist/)
