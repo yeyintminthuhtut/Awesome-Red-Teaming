@@ -78,7 +78,7 @@ Table of Contents
 
  
 ## [↑](#table-of-contents) Persistence
-* [A View of Persistence](https://rastamouse.me/2018/03/a-view-of-persistence/)
+* [A View of Persistence](https://rastamouse.me/blog/view-of-persistence/)
 * [hiding registry keys with psreflect](https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353)
 * [Persistence using RunOnceEx – Hidden from Autoruns.exe](https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/)
 * [Persistence using GlobalFlags in Image File Execution Options – Hidden from Autoruns.exe](https://oddvar.moe/2018/04/10/persistence-using-globalflags-in-image-file-execution-options-hidden-from-autoruns-exe/)
@@ -147,8 +147,8 @@ Table of Contents
 * [Windows Access Tokens and Alternate credentials](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
 * [Bringing the hashes home with reGeorg & Empire](https://sensepost.com/blog/2016/bringing-the-hashes-home-with-regeorg-empire/)
 * [Intercepting passwords with Empire and winning](https://sensepost.com/blog/2016/intercepting-passwords-with-empire-and-winning/)
-* [Local Administrator Password Solution (LAPS) Part 1](https://rastamouse.me/2018/03/laps---part-1/)
-* [Local Administrator Password Solution (LAPS) Part 2](https://rastamouse.me/2018/03/laps---part-2/)
+* [Local Administrator Password Solution (LAPS) Part 1](https://rastamouse.me/blog/laps-pt1/)
+* [Local Administrator Password Solution (LAPS) Part 2](https://rastamouse.me/blog/laps-pt2/)
 * [USING A SCF FILE TO GATHER HASHES](https://1337red.wordpress.com/using-a-scf-file-to-gather-hashes/)
 * [Remote Hash Extraction On Demand Via Host Security Descriptor Modification](https://www.harmj0y.net/blog/)
 * [Offensive Encrypted Data Storage](https://www.harmj0y.net/blog/redteaming/offensive-encrypted-data-storage/)
@@ -177,8 +177,8 @@ Table of Contents
    
 ## [↑](#table-of-contents) Lateral Movement 
 
-* [A Citrix Story](https://rastamouse.me/2017/05/a-citrix-story/)
-* [Jumping Network Segregation with RDP](https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/)
+* [A Citrix Story](https://rastamouse.me/blog/a-citrix-story/)
+* [Jumping Network Segregation with RDP](https://rastamouse.me/blog/rdp-jump-boxes/)
 * [Pass hash pass ticket no pain](http://resources.infosecinstitute.com/pass-hash-pass-ticket-no-pain/)
 * [Abusing DNSAdmins privilege for escalation in Active Directory](http://www.labofapenetrationtester.com/2017/05/abusing-dnsadmins-privilege-for-escalation-in-active-directory.html)
 * [Using SQL Server for attacking a Forest Trust](http://www.labofapenetrationtester.com/2017/03/using-sql-server-for-attacking-forest-trust.html)
@@ -288,9 +288,9 @@ Table of Contents
 * [InternetExplorer.Application for C2](https://adapt-and-attack.com/2017/12/19/internetexplorer-application-for-c2/)
 
 ### Infrastructure
-* [Automated Red Team Infrastructure Deployment with Terraform - Part 1](https://rastamouse.me/2017/08/automated-red-team-infrastructure-deployment-with-terraform---part-1/)
-* [Automated Red Team Infrastructure Deployment with Terraform - Part 2](https://rastamouse.me/2017/09/automated-red-team-infrastructure-deployment-with-terraform---part-2/)
-* [Red Team Infrastructure - AWS Encrypted EBS](https://rastamouse.me/2018/02/red-team-infrastructure---aws-encrypted-ebs/)
+* [Automated Red Team Infrastructure Deployment with Terraform - Part 1](https://rastamouse.me/blog/terraform-pt1/)
+* [Automated Red Team Infrastructure Deployment with Terraform - Part 2](https://rastamouse.me/blog/terraform-pt2/)
+* [Red Team Infrastructure - AWS Encrypted EBS](https://rastamouse.me/blog/encrypted-ebs/)
 * [6 RED TEAM INFRASTRUCTURE TIPS](https://cybersyndicates.com/2016/11/top-red-team-tips/)
 * [How to Build a C2 Infrastructure with Digital Ocean – Part 1](https://www.blackhillsinfosec.com/build-c2-infrastructure-digital-ocean-part-1/)
 * [Infrastructure for Ongoing Red Team Operations](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
