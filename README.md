@@ -78,7 +78,7 @@ Table of Contents
 
  
 ## [↑](#table-of-contents) Persistence
-* [A View of Persistence](https://rastamouse.me/2018/03/a-view-of-persistence/)
+* [A View of Persistence](https://rastamouse.me/blog/view-of-persistence/)
 * [hiding registry keys with psreflect](https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353)
 * [Persistence using RunOnceEx – Hidden from Autoruns.exe](https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/)
 * [Persistence using GlobalFlags in Image File Execution Options – Hidden from Autoruns.exe](https://oddvar.moe/2018/04/10/persistence-using-globalflags-in-image-file-execution-options-hidden-from-autoruns-exe/)
