@@ -377,6 +377,7 @@ Table of Contents
 * [Screen Crab](https://shop.hak5.org/collections/sale/products/screen-crab)
 * [O.MG Cable](https://shop.hak5.org/collections/featured-makers/products/o-mg-cable)
 * [Keysy](https://shop.hak5.org/collections/featured-makers/products/keysy)
+* [Dorothy for Okta SSO](https://github.com/elastic/dorothy)
 
 ## [↑](#table-of-contents) Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
