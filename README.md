@@ -1,4 +1,6 @@
-# Awesome Red Teaming
+# This List is no longer updated.
+
+## Awesome Red Teaming
 
 List of Awesome Red Team / Red Teaming Resources
 
