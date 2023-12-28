@@ -393,6 +393,7 @@ Table of Contents
 * [Tradecraft - a course on red team operations](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
 * [Advanced Threat Tactics Course & Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
 * [FireEye - a whiteboard session on red team operations](https://www.fireeye.com/services/red-team-assessments/red-team-operations-video-training.html)
+* [Pentest-Ground](https://pentest-ground.com)
 
 #### Home Lab
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
