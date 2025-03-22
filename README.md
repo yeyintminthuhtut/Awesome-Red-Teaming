@@ -14,6 +14,7 @@ You can help by sending Pull Requests to add more information.
 Table of Contents
 =================
 
+ * [Threat Intelligence](#-threat-intelligence)
  * [Initial Access](#-initial-access)
  * [Execution](#-execution)
  * [Persistence](#-persistence)
@@ -157,7 +158,19 @@ Table of Contents
 * [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
 * [Dump Clear-Text Passwords for All Admins in the Domain Using Mimikatz DCSync](https://adsecurity.org/?p=2053)
 * [Dumping Domain Password Hashes](https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/)
+
   
+## [↑](#table-of-contents) Threat Intelligence
+
+* [Red Team News](https://redteamnews.com/blog/)
+* [Nao Sec](https://nao-sec.org/)
+* [Darknet Diaries](https://darknetdiaries.com/)
+* [Reddit netsec](http://www.reddit.com/r/netsec/)
+* [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity/)
+* [NIST Cybersecurity insights](https://www.nist.gov/blogs/cybersecurity-insights)
+* [SANS Internet Storm Center](https://isc.sans.edu/)
+* [Crowdstrike](https://www.crowdstrike.com/blog/category/threat-intel-research/)
+
 ## [↑](#table-of-contents) Discovery
 * [Red Team Operating in a Modern Environment](https://www.owasp.org/images/4/4b/Red_Team_Operating_in_a_Modern_Environment.pdf)
 * [My First Go with BloodHound](https://blog.cobaltstrike.com/2016/12/14/my-first-go-with-bloodhound/)
