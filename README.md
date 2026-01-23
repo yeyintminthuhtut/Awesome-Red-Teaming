@@ -289,6 +289,7 @@ Table of Contents
 * [Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command & Control Tool](https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a)
 * [InternetExplorer.Application for C2](https://adapt-and-attack.com/2017/12/19/internetexplorer-application-for-c2/)
 
+* [NullSec C2 Beacon](https://github.com/bad-antics/nullsec-beacon) - Lightweight multi-protocol command and control beacon supporting HTTP, DNS, and WebSocket channels for covert operations
 ### Infrastructure
 * [Automated Red Team Infrastructure Deployment with Terraform - Part 1](https://rastamouse.me/blog/terraform-pt1/)
 * [Automated Red Team Infrastructure Deployment with Terraform - Part 2](https://rastamouse.me/blog/terraform-pt2/)
