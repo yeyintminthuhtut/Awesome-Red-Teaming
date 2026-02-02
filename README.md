@@ -345,6 +345,7 @@ Table of Contents
 * [Responsible Red Teams](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
 * [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
 * RedTeaming from Zero to One [Part-1](https://payatu.com/redteaming-from-zero-to-one-part-1) [Part-2](https://payatu.com/redteaming-zero-one-part-2)
+* [n01d-machine](https://github.com/bad-antics/n01d-machine) - Secure VM manager with Tor/VPN integration for anonymous red team operations, featuring sandbox isolation and network compartmentalization.
 
 ## [↑](#table-of-contents) RedTeam Gadgets
 #### Network Implants
