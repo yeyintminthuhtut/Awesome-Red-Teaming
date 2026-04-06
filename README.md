@@ -31,6 +31,7 @@ Table of Contents
  * [Ebooks](#-ebooks)
  * [Training](#-training--free-)
  * [Certification](#-certification)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including penetration testing, security scanning, and automated red team reconnaissance. MIT licensed.
  
  
 ## [↑](#table-of-contents) Initial Access
