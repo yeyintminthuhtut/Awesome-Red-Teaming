@@ -69,7 +69,7 @@ Table of Contents
 * [Microsoft Office – NTLM Hashes via Frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
 * [Defense-In-Depth write-up](https://oddvar.moe/2017/09/13/defense-in-depth-writeup/)
 * [Spear Phishing 101](https://blog.inspired-sec.com/archive/2017/05/07/Phishing.html)
-
+* [Pentest Mindmap](https://pentestmindmap.com/en) - Interactive mindmap with 11,600+ pentesting commands across 32 categories. Searchable with one-click copy.
  
 ## [↑](#table-of-contents) Execution 
 * [Research on CMSTP.exe,](https://msitpros.com/?p=3960)
