@@ -398,6 +398,7 @@ Table of Contents
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
 * [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD)
+* [HTB Writeups - Comprehensive Hack The Box writeups covering 500+ machines, 400+ challenges, ProLabs, and Sherlocks](https://github.com/momenbasel/htb-writeups)
 
 ## [↑](#table-of-contents) Certification
 * [CREST Certified Simulated Attack Specialist](http://www.crest-approved.org/examination/certified-simulated-attack-specialist/)
