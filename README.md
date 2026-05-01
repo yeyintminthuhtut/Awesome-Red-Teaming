@@ -77,6 +77,7 @@ Table of Contents
 * [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/)
 * [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)
 * [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)
+* [Capybara Nexus v2](https://github.com/pentrestion/capybara-nexus-v2) — Autonomous AI red teaming and security auditing skill for Gemini CLI, focused on zero-day detection and exploit chaining.
 
  
 ## [↑](#table-of-contents) Persistence
