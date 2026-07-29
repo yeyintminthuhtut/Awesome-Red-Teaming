@@ -176,6 +176,8 @@ Table of Contents
 * [Microsoft LAPS Security & Active Directory LAPS Configuration Recon](https://adsecurity.org/?p=3164)
 * [Trust Direction: An Enabler for Active Directory Enumeration and Trust Exploitation](https://bohops.com/2017/12/02/trust-direction-an-enabler-for-active-directory-enumeration-and-trust-exploitation/)
 * [SPN Discovery](https://pentestlab.blog/2018/06/04/spn-discovery/)
+* [xerxes-project - Modular pentest harness in Rust: plugin architecture, async port scanner, subdomain brute-forcer, web fuzzer, Shodan integration, credential testing](https://github.com/JMarchiori13/xerxes-project)
+* [osint-recon - Passive OSINT reconnaissance framework in Rust: subdomains, DNS, ASN, CT history, GitHub dorking, tech fingerprinting, Brazilian context](https://github.com/JMarchiori13/osint-recon)
    
 ## [↑](#table-of-contents) Lateral Movement 
 
